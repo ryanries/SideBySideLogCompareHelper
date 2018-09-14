@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideBySideLogCompareHelper", "SideBySideLogCompareHelper.csproj", "{B3F32AA0-F2CA-46CC-8976-D6609EE49F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F32AA0-F2CA-46CC-8976-D6609EE49F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F32AA0-F2CA-46CC-8976-D6609EE49F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F32AA0-F2CA-46CC-8976-D6609EE49F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F32AA0-F2CA-46CC-8976-D6609EE49F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D9B5757-BB04-4E5F-A141-E08827078E65}
+	EndGlobalSection
+EndGlobal
